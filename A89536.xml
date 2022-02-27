@@ -1,0 +1,186 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The defeat of the Barbary fleet; or A letter of advice relating the late glorious victory, which the Republique of Venice obtaind against the Turk in the chanel of Scio in the Archipelago, the 3d. of May 1657. Vnder the comand of the Lord Lazaro Mosenigo Captain Generall of the sea to the Republique.</title>
+            <author>N.N.M.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1657</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89536</idno>
+            <idno type="STC">Wing M63</idno>
+            <idno type="STC">Thomason E916_5</idno>
+            <idno type="STC">ESTC R202966</idno>
+            <idno type="EEBO-CITATION">99863083</idno>
+            <idno type="PROQUEST">99863083</idno>
+            <idno type="VID">168466</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89536)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168466)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 138:E916[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The defeat of the Barbary fleet; or A letter of advice relating the late glorious victory, which the Republique of Venice obtaind against the Turk in the chanel of Scio in the Archipelago, the 3d. of May 1657. Vnder the comand of the Lord Lazaro Mosenigo Captain Generall of the sea to the Republique.</title>
+                  <author>N.N.M.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Richard Lowndes at the white Lyon, near the little north door of Pauls,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1657.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: N.N.M.</note>
+                  <note>Annotation on Thomason copy: "July 2d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mocenigo, Lazzaro, 1624-1657.</term>
+               <term>Turkey --  History --  Mohammed IV, 1648-1687 --  Early works to 1800.</term>
+               <term>Venice (Italy) --  History --  Turkish Wars, 17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168466:1" rendition="simple:additions"/>
+            <p>THE DEFEAT OF THE BARBARY FLEET; OR A Letter of Advice Relating the late Glorious Victo<g ref="char:EOLhyphen"/>ry, which the Republique of <hi>Venice</hi> obtaind againſt the <hi>Turk</hi> in the Chanel of <hi>Scio</hi> in the <hi>Archipelago,</hi> the 3d. of <hi>May</hi> 1657.</p>
+            <p>Vnder the Comand of the Lord <hi>La<g ref="char:EOLhyphen"/>zaro Moſenigo</hi> Captain Ge<g ref="char:EOLhyphen"/>nerall of the Sea to the Republique.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>Richard Lowndes</hi> at the white Lyon, near the little North door of <hi>Pauls,</hi> 1657.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168466:2"/>
+            <pb n="1" facs="tcp:168466:2"/>
+            <head>Most Illuſtrious, and moſt Excellent Lord my moſt Honored Patron.</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Our Excellency ſhall receive herewith an ac<g ref="char:EOLhyphen"/>count of one of the moſt memorable Succeſ<g ref="char:EOLhyphen"/>ſes that in ſo ſhort a compaſs of time the Divine Providence could give to poor Mor<g ref="char:EOLhyphen"/>tals, over the Common Enemy.</p>
+            <p>The <hi>Venetian</hi> Fleet departed from <hi>Sdille</hi> to the number of nineteen Gallies, and ſix Galeaſſes, the Ships being left behind to make more ſpeed; And finding that the Enemies Fleet was gone from <hi>Mettelino</hi> having newly come out of the <hi>Dardanelli,</hi> to the number often Gallies, being inform'd there by the Slaves that the ſayed Fleet was at <hi>Scio</hi> where they expected recreuts from <hi>Conſtantinople,</hi> we bent our cours towards that place, where not finding the ſayed <hi>Armata,</hi> we were told by the Slaves that it was gone towards <hi>Rhodes,</hi> for to caulk ſom bottoms, we making that way, we met with five <hi>Saics</hi> which were part of the <hi>Alexandrian</hi> Ca<g ref="char:EOLhyphen"/>ravan deſign'd for <hi>Smirna,</hi> whereof one was burnt, and two ſtranded; Thence we ſteerd our cours towards <hi>Samos,</hi> and <hi>Scala nuova,</hi> and in the way took a Veſſell of <hi>Alexandria.</hi>
+            </p>
+            <p>Herupon we diſpatch <hi>Felucas</hi> and <hi>Brigantines</hi> towards <hi>Sa<g ref="char:EOLhyphen"/>mos</hi> and <hi>Scala nuova</hi> in queſt of the Enemies Fleet, but before their return we finding our ſelfs nere <hi>Cao corbo,</hi> we ſpied it betimes in the morning making ſayl towards the Streight of <hi>Samos;</hi> The <hi>Turks Armata</hi> was 25 miles diſtant from ours, and we no ſooner diſcoverd it, but we made all the ſpeed that Sayles and Oares could make to find them out. But with the favour of the wind they got to the Channel of <hi>Samos.</hi> And having notice the Fleet from <hi>Barbary</hi> were expected with a good quanty of Rialls to meet at <hi>Scio,</hi> and joyn with the reſt of the <hi>Armata,</hi> we applyed our ſelf to prevent that con<g ref="char:EOLhyphen"/>junction, and to ſtreighten that Iland, which began already to feel want.</p>
+            <pb n="2" facs="tcp:168466:3"/>
+            <p>That Evening another <hi>Saic</hi> was taken, and Advice was brought of nine Veſſels which made ſayl towards <hi>Scio</hi> with a weak wind, and ſix more becauſe of the Night were left behind; All theſe were Ships of <hi>Barbary</hi> as we had intelli<g ref="char:EOLhyphen"/>gence, which were going to reinforce the <hi>Turks Armata;</hi> And amongſt them there was the Golden Croſſe a <hi>Flemiſh</hi> Ship, who being come from <hi>Venice</hi> with a Cargaſon of Bisket, and being retir'd to <hi>Tine,</hi> was taken by them, a little before, they counterfeiting a <hi>Flemiſh</hi> Banner, which the Captain percei<g ref="char:EOLhyphen"/>ving, he ſavd his men aſhore, and left them the Ship.</p>
+            <p>Theſe were Ships from the Coaſt of <hi>Algier,</hi> among the formoſt ther was the Admirall, the Captain, and the <hi>Padro<g ref="char:EOLhyphen"/>na</hi> in the middle, which was taken laſt of all.</p>
+            <p>They having diſcoverd our Fleet, they began to ſtreighten their Sayles, to joyn with thoſe that were furtheſt off, ſhewing therby a reſolution to fight.</p>
+            <p>Therupon we ordred our ſelfs for battail, on the right ſide ſtood Proveditor <hi>Badoaro,</hi> on the left Comiſſary <hi>Michael,</hi> and in the middle the moſt Excellent Lord the Capitan Ge<g ref="char:EOLhyphen"/>nerall <hi>Mocenigo;</hi> Therupon the Gallies divided themſelfs to three Squadrons, with two Galeaſſes attending evry Squadron.</p>
+            <p>In the Vantgard their ſayld the Gally of <hi>Barbaro</hi> Captain of the Gulph, aſſiſted by, and directed by the Lord <hi>Auguſtin Marcello;</hi> This Veſſell with incomparable valour made to<g ref="char:EOLhyphen"/>wards, and aſſaulted the Enemy.</p>
+            <p>The Fortreſſe of <hi>Scio</hi> ſtounded the Enemy with their great Canon ſhot. The moſt Excellent Lord Captain General <hi>Mocenigo</hi> having diſposd of all things for Fight, the Canons went off for three howers perpetually on both ſides, with ſuch an ardor and fury, that a greater obſtinacy could not be in any Battail.</p>
+            <p>And it may eaſily be beleevd, for the <hi>Moores</hi> or <hi>Barbareſchi,</hi> are of the fierceſt, and moſt undaunted nature of any among the <hi>Turks.</hi>
+            </p>
+            <pb n="3" facs="tcp:168466:3"/>
+            <p>Ther being ſcarce a breath of wind left, the Ships began to make uſe of leggs for wings, and make uſe of Oares, which they uſe to do when they are out in cours, but by the high vertu and valour of the Captain General all our Galeaſſes were inordred to boord the Enemy, and the firſt who did ſo was <hi>Lodovico Baffo</hi> Director of the Captain <hi>Galeaſſa Moroſini,</hi> who approaching the poop of the Enemies Admirall with two Gallies more which were to attend him, <hi>viz.</hi> that of Commiſſary <hi>Michael,</hi> and the honorable <hi>Giacomo Pollani,</hi> who did the work, For the comands of the General were ſo pun<g ref="char:EOLhyphen"/>ctually performd, that the Aggreſſors being twice beaten back, yet by pure valour and force they made themſelfs Ma<g ref="char:EOLhyphen"/>ſters of the ſayd Ship, which did much animat the reſt.</p>
+            <p>At the ſame time the Captain of the Galeaſſe <hi>Loredano</hi> boorded another ſhip being attended by the Gallie of the Lord <hi>Gerolimo Peſaro,</hi> and after a tough fight, he made the Veſſell his own.</p>
+            <p>In the interim ther came out of the Port of <hi>Scio</hi> a Gally, and 2 Galeots for the aſſiſtance of the Enemy, but the Lord <hi>Franciſco Viſcamo</hi> took order with them, and beat them back again to port.</p>
+            <p>The moſt excellent Captain Generall did inceſſantly tor<g ref="char:EOLhyphen"/>ment the Enemies Captain with his Gallie, who made more reſiſtence than others, and Captain <hi>Renier</hi> attempting to boord her, the wind interpoſing it ſelf by turning North<g ref="char:EOLhyphen"/>weſt oblig'd him to paſs with the Gallie of the Lo. <hi>Nicolas Zane</hi> to the boording of another Ship. But in his place ther came <hi>Antonio Priuli</hi> with his Galeaſſe, who with extraordi<g ref="char:EOLhyphen"/>nary fierceneſs ſet upon her, ſo that the oppoſition was very obſtinat, At laſt <hi>Mehemet</hi> a <hi>Renegado Hollander</hi> who comand<g ref="char:EOLhyphen"/>ed in chief being hurt in the Legg, whereof he died the next day, the Ship was wonne, and the Banner of the Chriſtian General was planted upon Her to the glory of the great God who furtherd the Enterprize.</p>
+            <p>The Lo. <hi>Franceſco Moſenigo</hi> Lieutenant, and Brother to the
+<pb n="4" facs="tcp:168466:4"/>moſt excellent Captain General who aſſiſted all the while at the prore, did ſtir himſelf notably in this exploit, as all<g ref="char:EOLhyphen"/>ſo Signor <hi>Aluiſe Dona</hi> who in quality of an adventurer and Volontier was upon the ſayed gallie, did ſhow moſt ſignal proofs of reſolution and valour in the acqueſt of the ſayed ſhipp.</p>
+            <p>One ſhipp alone which was lagg behind the reſt by the favour of the wind being joyned with ſix more which were allready diſcoverd, and come neer, put themſelfs all to flight.</p>
+            <p>With the ſhip on the right wing a moſt blouddy fight continued by the Squadon of the Proveditor <hi>Badoer,</hi> cauſing two to run a ſhore which were afterwards fyrd by the enemy himſelf, wherein ſome ſwom to land, others choſe rather an honorable death then to expoſe themſelfs to Slavery.</p>
+            <p>The Captain of the <hi>Golfo Barbaro</hi> did boord another Shipp being joynd with Signor <hi>Lunardo Moro,</hi> who were emulous with one another in point of valour; But this fight coſt us dear, for the Captain of the <hi>Golf</hi> was hurt in his left ſhould<g ref="char:EOLhyphen"/>er, <hi>Marcello</hi> director of the Galley had a ſore hurt in his right foot, and <hi>Lunardo Moro</hi> had a muskett ſhort in his neck which is feard is Mortal; In the gallie ther remaind hurt <hi>Franciſco Bollani, Luca Falier</hi> with little hope of life; In this engagement the courage of Sig. <hi>Baptista Caotorta</hi> upon the gallie <hi>Remera</hi> was very remarkable.</p>
+            <p>The generous actions, and exemplary proweſſe of Father <hi>Auguſtin Moro</hi> a Dominican Fryer is not here to be omitted, for the gallie <hi>Moro</hi> being indiſtreſſe, he with few more endu<g ref="char:EOLhyphen"/>r'd the Shocks of the <hi>Turks</hi> who from the land pelted the prore, wher he receavd five wounds but non mortal we hope.</p>
+            <p>Two gallies being ſtranded the Proveditor of the Armata came to the ſuccour of the moſt excellent Captain General who drew the gally <hi>Capitan de golfo</hi> from danger, and by his ordinance driving away the peeple from the ſhore which were come thither in ſwarms, both the gallies were freed; And ſo in five howers battail were preſervd all the Veſſells
+<pb n="5" facs="tcp:168466:4"/>of the moſt Serene Republique, but not without effuſion of bloud.</p>
+            <p>Of nine Veſſells fower were taken out of the very body of the battail, but ſo torn that they came as naked Carcaſes without maſts, ſo furiouſly did the <hi>Venetian</hi> armes play a<g ref="char:EOLhyphen"/>gainſt them.</p>
+            <p>Among thoſe Veſſells which were taken ther is the Cap<g ref="char:EOLhyphen"/>tain, and the <hi>Admirante;</hi> Among the reſt one fledd away fearing the Shock, Three were burnt, and one two daies after becauſe they could not hale her aſhoare they put fier in her.</p>
+            <p>The Slaves which were taken in this battail come to a great nomber, among whom <hi>Aidin Chaus</hi> who was ſent with money from <hi>Constantinople</hi> to <hi>Barbary</hi> for to hyre this Fleet for the ſervice of the Gran Signor, Ther was alſo taken <hi>Me<g ref="char:EOLhyphen"/>hemet di Berb<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ria</hi> Colonell of the Janizaries, <hi>Cuſain d' Algieri</hi> Captain of a Shipp, as alſo Captian Generall of the Fleet the who died a little after of his wounds, beſide a great nomber of Chriſtian Slaves were freed.</p>
+            <p>The nomber of the dead on the Eenmies ſide was great becauſe few could ſcape by ſwimming, and ther was not a Ship but had 150 Soldiers, and evry one had 30 Mariners Slaves of all Nations.</p>
+            <p>The dead on our ſide came to 100 and 17. among whom Colonell <hi>Pietro de Landa</hi> a Subject of high eſteem for experi<g ref="char:EOLhyphen"/>ence and valour.</p>
+            <p>But the wounded came to the nomber of 346, a<g ref="char:EOLhyphen"/>mong whom beſides the Noble-men before nominated ther is Signor <hi>Andrea Bragadini,</hi> an extraordinary Captain of one of the galeaſſes, upon which Signor <hi>Antonio Loredan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> had occaſion to diſcover an extraordinary valour who was a<g ref="char:EOLhyphen"/>board the ſayed galeaſſe; Among the wounded ther are all<g ref="char:EOLhyphen"/>ſo <hi>Don vicenzo, Vando</hi> and <hi>Horatio Bartolini.</hi>
+            </p>
+            <p>Such was the concluſion of this glorious fight, which pro<g ref="char:EOLhyphen"/>miſeth ſom good fortune to follow upon the Iland of <hi>Scio;</hi> And certainly it may be eſteemd an incomparable Glory, that ſo
+<pb n="6" facs="tcp:168466:5"/>ſmall a Fleet ſhold take &amp; deſtroy ſo many ſhips, and put to flight 7 more which were in a warlike equipage; But all muſt be attributed to the aſsiſtance of that great God who pro<g ref="char:EOLhyphen"/>tects the juſt cauſe of the Republique, wherin the moſt ſerene Prince <hi>Bertuca valiero</hi> doth govern in chief, and with ſuch ſin<g ref="char:EOLhyphen"/>gular prudence; Adde hereunto that the Heroique vertu, and valour, the piety, juſtice, the auſpicious fortune, and rare directions of the moſt excellent Captain General <hi>Moce<g ref="char:EOLhyphen"/>nigo,</hi> did infinitly conduce to this ſignal victory, which pro<g ref="char:EOLhyphen"/>miſeth ſecurity to all Chriſtendome, with benedictions and triumph to the <hi>Venetian</hi> Armies.</p>
+            <p>This is all I can impart for the preſent to your Excellency, reſerving my ſelf for a more punctuall relation another time, wherin ther wil be occaſion to ſpeak of the merit, and glory of evry one of thoſe noble <hi>Venetians</hi> who with ſo much magna<g ref="char:EOLhyphen"/>nimity encreaſe the antient renown of this invincible Repub<g ref="char:EOLhyphen"/>lique.</p>
+            <closer>
+               <dateline>From <hi>Galeazza</hi> 
+                  <date>30 Maii 1655.</date>
+               </dateline>
+               <signed>Your Excellencies Moſt humble, and most devo<g ref="char:EOLhyphen"/>ted Servant <hi>N.N.M.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <head>Poſtſcript.</head>
+               <p>SInce my laſt, ther are freſh News, that a ſquadron of <hi>Turkiſh Saiques</hi> are taken, and that the <hi>Venetian</hi> Fleet is ad<g ref="char:EOLhyphen"/>vanc'd through the Caſtles into the Helleſpont towards <hi>Con<g ref="char:EOLhyphen"/>ſtantinople,</hi> where ther are fearfull confuſions, the <hi>Greek</hi> Patri<g ref="char:EOLhyphen"/>arch being lat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly ſtrangled, and the <hi>Janezaries</hi> bafled the Gran Signore in the <hi>Seraglio,</hi> and comitted many other Inſo<g ref="char:EOLhyphen"/>lencies.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
